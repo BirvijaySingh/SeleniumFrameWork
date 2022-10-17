@@ -9,4 +9,10 @@ public class DemoTest {
 	{
 		System.out.println("method is running");
 	}
+	
+	public void method2()
+	{
+		System.out.println("method2 is running");
+	}
+	
 }
