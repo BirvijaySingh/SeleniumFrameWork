@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-11T15:11:00 IST" name="Default suite" finished-at="2022-10-11T15:11:14 IST" duration-ms="13855">
+    <groups>
+      <group name="smokeTest">
+        <method signature="RunParameters.method()[pri:0, instance:Practice.RunParameters@63a12c68]" name="method" class="Practice.RunParameters"/>
+      </group> <!-- smokeTest -->
+    </groups>
+    <test started-at="2022-10-11T15:11:00 IST" name="Default test" finished-at="2022-10-11T15:11:14 IST" duration-ms="13855">
+      <class name="Practice.RunParameters">
+        <test-method signature="method()[pri:0, instance:Practice.RunParameters@63a12c68]" started-at="2022-10-11T15:11:00 IST" name="method" finished-at="2022-10-11T15:11:14 IST" duration-ms="13786" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method -->
+      </class> <!-- Practice.RunParameters -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
